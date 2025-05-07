@@ -1,5 +1,5 @@
 # Hello, I'm KALLA AKHIL
-<a href="www.linkedin.com/in/kalla-akhil"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kalla-akhil"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 👋 An aspiring SOC Analyst with a passion for defending digital infrastructure. Currently pursuing a Bachelor's in Computer Science with a focus on Cyber Security at GITAM University.
 🔍 Specializing in phishing analysis, SIEM tools, network security, and incident response, with hands-on experience using platforms like Wireshark, Splunk, Metasploit, and simulation environments such as TryHackMe and LetsDefend. Continuously upskilling with certifications like CEH and PSAA (in progress), and completed the Google Cybersecurity Specialization.

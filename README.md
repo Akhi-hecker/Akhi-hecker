@@ -48,8 +48,8 @@ To obtain a challenging role as a Tier 1 SOC Analyst, where I can leverage my kn
 ## Certifications
 <div>
   <img src="https://img.shields.io/badge/-Google_Cybersecurity_Specialization-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-CEH_(In_Progress)-A10000?&style=for-the-badge&logo=EC%20Council&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-PSAA_(In_Progress)-FF9900?&style=for-the-badge&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Certified_Ethical_Hacker_(CEH)_–_EC_Council_(In_Progress)-A10000?&style=for-the-badge&logo=EC%20Council&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Practical_SOC_Analyst_Associate_(PSAA)_–_TCM_Security_(In_Progress)-FF9900?&style=for-the-badge&logoColor=white" /> 
 </div>
 
 ## Achievements

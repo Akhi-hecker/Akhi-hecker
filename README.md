@@ -74,3 +74,4 @@ Investigated and resolved two simulated SOC alerts, enhancing threat detection a
 ## Projects
 - Private VPN (OpenVPN)
 - Private SOC Home Lab
+- Phishing Email Analyzer python script

@@ -16,7 +16,6 @@ To obtain a challenging role as a Tier 1 SOC Analyst, where I can leverage my kn
 | Python for Security Automation         | -                  |
 | Digital Forensics                      | -                  |
 | Threat Intelligence (e.g., MISP, YARA) | -                  |
-| Wireshark & Packet Analysis            | -                  |
 
 
 ## Tools

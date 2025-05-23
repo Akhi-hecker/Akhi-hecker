@@ -7,6 +7,8 @@
 ## Objective
 To obtain a challenging role as a Tier 1 SOC Analyst, where I can leverage my knowledge of cybersecurity, SIEM tools, and threat analysis to effectively detect and respond to security incidents. With a strong foundation in computer science and a growing passion for cybersecurity, I am eager to contribute to a dynamic Security Operations Center while continuously advancing my skills in real-time defense, automation, and digital forensics.
 
+
+## Skills
 | Skill                                  | Associated Project |
 | -------------------------------------- | ------------------ |
 | Phishing Analysis                      | <a href="https://github.com/Akhi-hecker/Email-Phishig-Analyzer">Email Phishing Analyzer</a> |

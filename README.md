@@ -17,7 +17,7 @@ To obtain a challenging role as a Tier 1 SOC Analyst, where I can leverage my kn
 | Incident Response and Handling         | -                  |
 | Python for Security Automation         | -                  |
 | Digital Forensics                      | -                  |
-| Threat Intelligence (e.g., MISP, YARA) | -                  |
+| Threat Intelligence (MISP, YARA)       | -                  |
 
 
 ## Tools

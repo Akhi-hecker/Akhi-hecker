@@ -15,7 +15,7 @@ To obtain a challenging role as a Tier 1 SOC Analyst, where I can leverage my kn
 | SIEM Tools (e.g., Splunk)              | -                  |
 | Network Security                       | -                  |
 | Incident Response and Handling         | -                  |
-| Python for Security Automation         | -                  |
+| Python for Security Automation         | <a href="https://github.com/Akhi-hecker/python-port-monitor-slack-alert">Port Monitor with Slack Alerts</a> |
 | Digital Forensics                      | -                  |
 | Threat Intelligence (MISP, YARA)       | -                  |
 

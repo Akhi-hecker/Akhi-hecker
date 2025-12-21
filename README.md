@@ -63,8 +63,8 @@ Built SOC workflows using **Wazuh, TheHive & Shuffle** to simulate incident dete
 
 ## 📚 Certifications & Learning
 
-- 🛡️ **CEH** – In Progress  
-- 🔵 **PSAA (Practical SOC Analyst Associate)** – In Progress  
+- 🛡️ **CEH** 
+- 🔵 **PSAA (Practical SOC Analyst Associate)** 
 - 🟢 **Google Cybersecurity Professional Certificate**  
 - ✍️ Technical blogs on **Wireshark, Tcpdump & Snort IDS**
 

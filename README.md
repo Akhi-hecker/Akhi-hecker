@@ -35,31 +35,21 @@ I am a **Final-year B.Tech CSE (Cybersecurity)** student at **GITAM University**
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Scripting
-<p>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+### 💻 Software Engineering
+- **Languages:** Python, Java, C, SQL, JavaScript  
+- **Web:** HTML, CSS, Flask, React (Basics)  
+- **Concepts:** OOP, SDLC, REST APIs, DSA (Basics), Agile  
+- **Tools:** Git, GitHub, Postman  
 
-### 🌐 Web Development
-<p>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-</p>
+### 🔐 SOC & Cybersecurity
+- **SIEM:** Splunk, ELK Stack, Wazuh  
+- **IDS/IPS:** Snort, Sysmon  
+- **Forensics:** Wireshark, FTK Imager, Volatility  
+- **Threats:** Phishing Analysis, Email Spoofing, MITRE ATT&CK, YARA  
 
-### 🛡️ Cybersecurity & Tools
-<p>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kalilinux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+### 🖥️ Systems & Networking
+- Linux Administration, Windows (AD Basics)  
+- TCP/IP, DNS, DHCP, Firewalls, VPN  
 
 ---
 

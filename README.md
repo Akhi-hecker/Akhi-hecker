@@ -1,78 +1,93 @@
-# Hello, I'm KALLA AKHIL
-<a href="https://www.linkedin.com/in/kalla-akhil"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h1 align="center">Hi 👋, I'm Akhil</h1>
+<h3 align="center">Aspiring Software Engineer | SOC Analyst | Cybersecurity Enthusiast</h3>
 
-👋 An aspiring SOC Analyst with a passion for defending digital infrastructure. Currently pursuing a Bachelor's in Computer Science with a focus on Cyber Security at GITAM University.
-🔍 Specializing in phishing analysis, SIEM tools, network security, and incident response, with hands-on experience using platforms like Wireshark, Splunk, Metasploit, and simulation environments such as TryHackMe and LetsDefend. Continuously upskilling with certifications like CEH and PSAA (in progress), and completed the Google Cybersecurity Specialization.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-## Objective
-To obtain a challenging role as a Tier 1 SOC Analyst, where I can leverage my knowledge of cybersecurity, SIEM tools, and threat analysis to effectively detect and respond to security incidents. With a strong foundation in computer science and a growing passion for cybersecurity, I am eager to contribute to a dynamic Security Operations Center while continuously advancing my skills in real-time defense, automation, and digital forensics.
+---
 
+## 🧑‍💻 About Me
 
-## Skills
-| Skill                                  | Associated Project |
-| -------------------------------------- | ------------------ |
-| Phishing Analysis                      | <a href="https://github.com/Akhi-hecker/Email-Phishig-Analyzer">Email Phishing Analyzer</a> |
-| SIEM Tools (e.g., Splunk)              | -                  |
-| Network Security                       | -                  |
-| Incident Response and Handling         | -                  |
-| Python for Security Automation         | <a href="https://github.com/Akhi-hecker/python-port-monitor-slack-alert">Port Monitor with Slack Alerts</a> |
-| Digital Forensics                      | -                  |
-| Threat Intelligence (MISP, YARA)       | -                  |
+- 🎓 Final-year Engineering student at **Gitam University**
+- 🔐 Passionate about **Cybersecurity, SOC Operations & Threat Detection**
+- 💻 Strong interest in **Software Engineering & Security Automation**
+- 🧠 Learning by building real-world projects
+- 🎯 Goal: **SOC Analyst / Cybersecurity Engineer**
 
+---
 
-## Tools
-#### Network
-<div>
-  <img src="https://img.shields.io/badge/-Tcpdump-005571?&style=for-the-badge&logo=gnu&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Snort&logoColor=white" />
-</div>
+## 🛠️ Tech Stack
 
-#### Threat Intelligence
-<div>
-  <img src="https://img.shields.io/badge/-YARA-282C34?&style=for-the-badge&logo=Yara&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-MISP-5E5E5E?&style=for-the-badge&logo=MISP&logoColor=white" />
-</div>
+### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-#### SIEM
-<div>
-  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Elastic_Stack-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> 
-</div>
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-#### Digital Forensics
-<div>
-  <img src="https://img.shields.io/badge/-FTK_Imager-003366?&style=for-the-badge&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Volatility-008080?&style=for-the-badge&logoColor=white" />
-</div>
+### 🔐 Cybersecurity & SOC Tools
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk)
+![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic)
+![Snort](https://img.shields.io/badge/Snort-EE3124?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Certifications
-<div>
-  <img src="https://img.shields.io/badge/-Google_Cybersecurity_Specialization-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Certified_Ethical_Hacker_(CEH)_–_EC_Council_(In_Progress)-A10000?&style=for-the-badge&logo=EC%20Council&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Practical_SOC_Analyst_Associate_(PSAA)_–_TCM_Security_(In_Progress)-FF9900?&style=for-the-badge&logoColor=white" /> 
-</div>
+---
 
-## Achievements
-<a href="https://drive.google.com/file/d/1-E2wI5wcS9vquFrgh13m8KiG_FHDer6X/view?usp=sharing">🟥 Mastercard Cybersecurity Virtual Experience – Forage</a>
-October 2024
-Completed simulated tasks in risk assessment, threat analysis, and SOC workflows.
-<br>
-<br>
-<a href="https://drive.google.com/file/d/1g5e_s79TihZnnNzcudjm8CEj3X0XbpvL/view?usp=sharing">🟪 Shore Fest CTF (College Capture the Flag)</a>
-January 2025
-Participated in a CTF competition and gained hands-on experience solving real-time cybersecurity challenges.
-<br>
-<br>
-<a href="https://drive.google.com/file/d/1zkkaw-w-tEx_CLebi4o6szW-weGl8ezy/view?usp=sharing">🟩 TryHackMe – Advent of Cyber 2024</a>
-December 2024
-Completed daily challenges focused on practical attack and defense scenarios.
-<br>
-<br>
-🟦 LetsDefend SOC Platform
-Investigated and resolved two simulated SOC alerts, enhancing threat detection and incident response skills.
+## 🧪 Featured Projects
 
-## Projects
-- Private VPN (OpenVPN)
-- Private SOC Home Lab
-- Phishing Email Analyzer python script
+### 🔐 Phishing Email Analyzer
+> Detects phishing emails by extracting URLs, IPs, headers, and attachments using Python.
+
+### 🛡️ Cybersecurity Toolkit
+> File Integrity Monitoring, TCP Port Monitoring & Flask-based security automation.
+
+### 🌐 Secure Web Applications
+> Task Tracker App & Steganography-based Secure Communication System.
+
+---
+
+## 📚 Certifications & Learning
+
+- 🧠 CEH v13 *(In Progress)*
+- 🛡️ PSAA – Practical SOC Analyst
+- 🧪 TryHackMe – Mobile Malware Analysis
+- 📖 Constant learner in SOC, SIEM & Incident Response
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ *Build. Break. Secure. Repeat.*

@@ -56,11 +56,15 @@ I am a **Final-year B.Tech CSE (Cybersecurity)** student at **GITAM University**
 ## 🧪 Featured Projects
 
 | Project | Description | Tech Info |
-| :--- | :--- | :--- |
-| **🔐 Email Phishing Analyzer** | Python tool that analyzes `.eml` files to extract IOCs, detect spoofing, and provide a risk score. | `Python` `Forensics` `Regex` |
-| **🛡️ Network Monitoring Toolkit** | Real-time system monitoring with File Integrity Monitoring (SHA-256) and TCP port alerts. | `Python` `Networking` `Security` |
-| **🚀 Student Management System** | A comprehensive CRUD-based system for managing student records effectively. | `Flask` `SQL` `Web` |
-| **🧠 SOC Lab Simulation** | Simulated incident response workflows using Wazuh, TheHive, and Shuffle. | `Wazuh` `TheHive` `SIEM` |
+|--------|------------|-----------|
+| 🔐 **Email Phishing Analyzer** | Python tool that analyzes `.eml` files to extract IOCs, detect spoofing, and generate a phishing risk score. | `Python` `Forensics` `Regex` |
+| 🛡️ **Network Monitoring Toolkit** | Real-time system monitoring with File Integrity Monitoring (SHA-256) and TCP port alerts. | `Python` `Networking` `Security` |
+| 🚀 **Student Management System** | CRUD-based web application for managing student records efficiently. | `Flask` `SQL` `Web` |
+| 🧠 **SOC Lab Simulation** | Simulated incident response workflows using Wazuh, TheHive, and Shuffle. | `Wazuh` `TheHive` `SIEM` |
+| 📋 **Task Tracker Web App** | Interactive task manager with add/edit/delete functionality and persistent database storage. | `Flask` `SQL` `JavaScript` |
+| 🔎 **System & Network Monitoring Tools** | Security automation tools including uptime checks, audit logging, and port scanning. | `Python` `Automation` `Security` |
+| 🛒 **Amazon Price Tracker** | Automated product price tracker with alerting using web scraping. | `Python` `Requests` `BeautifulSoup` |
+
 
 ---
 

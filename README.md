@@ -1,20 +1,20 @@
 <div align="center">
-  <h1>Hi there, I'm Akhil 👋</h1>
+  <h1>Hi there, I'm Harini Jajula 👋</h1>
   <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3F8CFF&center=true&vCenter=true&width=435&lines=Software+Engineer;Cybersecurity+Analyst;Full-Stack+Developer;Building+Secure+Systems" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3F8CFF&center=true&vCenter=true&width=435&lines=Data+Analyst;Business+Intelligence+Specialist;Power+BI+Expert;Transforming+Data+into+Insights" alt="Typing SVG" /></a>
   </p>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Akhi-hecker&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=harini475&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
   </p>
   
   <p>
-    <a href="https://github.com/Akhi-hecker">
+    <a href="https://github.com/harini475">
       <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/kalla-akhil/">
+    <a href="https://www.linkedin.com/in/harini-jajula">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:kallabharath2004@gmail.com">
+    <a href="mailto:your.email@example.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
@@ -22,34 +22,30 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
-I am a **Final-year B.Tech CSE (Cybersecurity)** student at **GITAM University** with a passion for **Secure Software Development**. My work bridges the gap between offensive security and robust engineering.
+I am a highly motivated **Data Analyst** with proven expertise in transforming complex data into actionable insights. I specialize in **Advanced Analytics**, **Data Visualization**, and **BI tools** like **Power BI** and **SQL**. I am passionate about leveraging data to drive strategic innovation and deliver measurable impact in fast-paced environments.
 
-- 🔭 I’m currently working on **SOC Automation & Threat Detection Tools**
-- 🌱 I’m currently learning **Advanced Malware Analysis & Cloud Security**
-- 👯 I’m looking to collaborate on **Open Source Security Tools**
-- 💬 Ask me about **Cybersecurity, Python, and Full-Stack Development**
+- 🔭 I’m currently working on **Advanced Retail & Sales Analytics**
+- 🌱 I’m currently learning **Microsoft Fabric (DP-600) & Advanced Data Engineering**
+- 👯 I’m looking to collaborate on **Business Intelligence & Data Storytelling Projects**
+- 💬 Ask me about **Power BI, SQL, Data Visualization, and DAX**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Software Engineering
-- **Languages:** Python, Java, C, SQL, JavaScript  
-- **Web:** HTML, CSS, Flask, React (Basics)  
-- **Concepts:** OOP, SDLC, REST APIs, DSA (Basics), Agile  
-- **Tools:** Git, GitHub, Postman  
+### 💻 Languages & Scripting
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib
 
-### 🔐 SOC & Cybersecurity
-- **SIEM:** Splunk, ELK Stack, Wazuh  
-- **IDS/IPS:** Snort, Sysmon  
-- **Forensics:** Wireshark, FTK Imager, Volatility  
-- **Threats:** Phishing Analysis, Email Spoofing, MITRE ATT&CK, YARA  
+### 📊 Business Intelligence
+- **Visualization:** Power BI, Excel, PowerPoint
+- **Platforms:** Microsoft Fabric
 
-### 🖥️ Systems & Networking
-- Linux Administration, Windows (AD Basics)  
-- TCP/IP, DNS, DHCP, Firewalls, VPN  
+### 🗄️ Databases & Tools
+- **DB:** MySQL
+- **IDEs:** VS Code, Jupyter, PyCharm
 
 ---
 
@@ -57,27 +53,29 @@ I am a **Final-year B.Tech CSE (Cybersecurity)** student at **GITAM University**
 
 | Project | Description | Tech Info |
 |--------|------------|-----------|
-| 🔐 **Email Phishing Analyzer** | Python tool that analyzes `.eml` files to extract IOCs, detect spoofing, and generate a phishing risk score. | `Python` `Forensics` `Regex` |
-| 🛡️ **Network Monitoring Toolkit** | Real-time system monitoring with File Integrity Monitoring (SHA-256) and TCP port alerts. | `Python` `Networking` `Security` |
-| 🚀 **Student Management System** | CRUD-based web application for managing student records efficiently. | `Flask` `SQL` `Web` |
-| 🧠 **SOC Lab Simulation** | Simulated incident response workflows using Wazuh, TheHive, and Shuffle. | `Wazuh` `TheHive` `SIEM` |
-| 📋 **Task Tracker Web App** | Interactive task manager with add/edit/delete functionality and persistent database storage. | `Flask` `SQL` `JavaScript` |
-| 🔎 **System & Network Monitoring Tools** | Security automation tools including uptime checks, audit logging, and port scanning. | `Python` `Automation` `Security` |
-| 🛒 **Amazon Price Tracker** | Automated product price tracker with alerting using web scraping. | `Python` `Requests` `BeautifulSoup` |
+| 🛍️ **Retail Sales Analysis** | Analyzed 44k+ records to uncover $13.4M in sales and identified $2.1M in profits. Built interactive dashboards for seasonal trends. | `Power BI` `Excel` `Power Query` |
+| 🌦️ **Weather Analysis Dashboard** | Dynamic forecast dashboard integrating real-time API data. Optimized DAX for 30% faster refresh rates. | `Power BI` `DAX` `Data Modeling` |
 
+---
+
+## 📜 Certifications
+- **Google Cloud Data Analytics Foundations**
+- **Microsoft Fabric Analytics Engineer (DP-600)** *(In Progress)*
+- **Power BI Data Analyst (PL-300)** *(In Progress)*
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhi-hecker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harini475&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhi-hecker&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harini475&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
 
 ---
 
 <div align="center">
-  <i>"Build secure systems. Think like an attacker. Defend like an engineer."</i>
+  <i>"Transforming complex data into actionable strategic insights."</i>
 </div>
+

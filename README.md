@@ -60,18 +60,12 @@ I am a highly motivated **Data Analyst** with proven expertise in transforming c
 
 ## 📜 Certifications
 - **Google Cloud Data Analytics Foundations**
-- **Microsoft Fabric Analytics Engineer (DP-600)** *(In Progress)*
-- **Power BI Data Analyst (PL-300)** *(In Progress)*
+- **Microsoft Fabric Analytics Engineer (DP-600)**
+- **Power BI Data Analyst (PL-300)**
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harini475&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harini475&theme=tokyonight&hide_border=true&background=0d1117" />
-</div>
 
 ---
 
